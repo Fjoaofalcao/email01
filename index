@@ -1,0 +1,97 @@
+<table style="width:100%;display:flex;align-items: center;flex-direction: row;justify-content: center;">
+    <tbody>
+        <tr>
+            <td align="center">
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td align="center">
+                            <div class="header_email" style="background-color: #c5e4ff; width: calc(750px - 10px); height: 150px; overflow: hidden; display: flex; border-radius: 3px; flex-direction: row; align-items: center; justify-content: center;">
+                                <div class="header01" style="width:50%;height:80%;border-right:1px solid #000;box-sizing:border-box;display:flex;align-items: center;justify-content: center;align-content: center;flex-direction: row;">
+                                    <img src="https://i.imgur.com/2SqniC6.png" style="width: 70%; height:auto">
+                                </div>
+                                <div class="header02" style="width: 50%; align-items: center; height: 80%; justify-content: center; border-left: 1px solid  #000; box-sizing: border-box;">
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr class="td_container">
+                        <td align="center">
+                            <div class="container_email">
+                                <a href="https://www.farmaciajoaofalcao.com.br/coenzima-q10-100mg-120-capsulas"><img style="margin-top: 15px; width: 700px; border-radius: 5px;" src="https://i.imgur.com/isJF4pm.png" alt="Marketing Image"></a>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr class="td_container">
+                        <td align="center">
+                            <div class="body_email" style="display: flex; max-width: 700px; justify-content: space-between; align-items: center; flex-direction: row; flex-wrap: nowrap; min-width: 400px; margin-top: 20px;">
+                                <div class="body01" style="display: flex; flex-direction: column; align-items: center;width: calc(100% / 2); height: auto; display: flex; background-color: transparent; justify-content: flex-end; flex-direction: column; min-width: 190px; align-items: center;">
+                                    <img src="https://i.imgur.com/KdqEJ6p.png" style="height: auto; margin-top: 0px; width: 130px; margin-bottom: 5px;">
+                                    <div class="body02" style="width: calc(100% - 20px); height: 30px; color: #fff; background-color: #00091F; border-radius: 3px; opacity: 1; display: flex; align-items: center; justify-content: center; flex-direction: row; padding: 5px 0px 5px 0px;">
+                                        <p class="body02_text" style="margin-top: 0px; margin-bottom: 0px; font-family: arial, helvetica, sans-serif; font-size: 25px; width: 100%; text-align: center;">5-HTP</p>
+                                    </div>
+                                    <p class="utilize" style="width: calc(100% - 20px); margin: 0px; margin-top: 5px; padding: 2px 0px 2px 0px; font-family: arial, helvetica, sans-serif; font-weight: bolder; text-align: center;">Utilize o cupom:</p>
+                                    <div class="cuppom" style="width: calc(100% - 20px); margin-top: 5px; font-family: arial, helvetica, sans-serif; border: 1px solid #000; border-style: dashed; text-align: center;  font-size: 20px; padding: 1px 0px 1px 0px;">email01</div>
+                                    <button class="body02_button" style="display: flex; width: calc(100% - 20px); font-family: arial, helvetica, sans-serif; margin-top: 5px; background-color: #29B951; padding: 5px; font-size: 18px; border: 1px solid #29B951; border-radius: 3px;  color: #fff; justify-content: center;" onclick="location.href='https:www.farmaciajoaofalcao.com.br/5-htp-grifonia-simplicifolia-100mg-120-capsulas'">COMPRE JÁ!</button>
+                                </div>
+                                <div class="body01" style="display: flex; flex-direction: column; align-items: center;width: calc(100% / 2); height: auto; display: flex; background-color: transparent; justify-content: flex-end; flex-direction: column; min-width: 190px; align-items: center;">
+                                    <img src="https://i.imgur.com/sYnDt3E.png" style="height: auto; margin-top: 0px; width: 130px; margin-bottom: 5px;">
+                                    <div class="body02" style="width: calc(100% - 20px); height: 30px; color: #fff; background-color: #00091F; border-radius: 3px; opacity: 1; display: flex; align-items: center; justify-content: center; flex-direction: row; padding: 5px 0px 5px 0px;">
+                                        <p class="body02_text" style="margin-top: 0px; margin-bottom: 0px; font-family: arial, helvetica, sans-serif; font-size: 25px; width: 100%; text-align: center;">MELATONINA</p>
+                                    </div>
+                                    <p class="utilize" style="width: calc(100% - 20px); margin: 0px; margin-top: 5px; padding: 2px 0px 2px 0px; font-family: arial, helvetica, sans-serif; font-weight: bolder; text-align: center;">Utilize o cupom:</p>
+                                    <div class="cuppom" style="width: calc(100% - 20px); margin-top: 5px; font-family: arial, helvetica, sans-serif; border: 1px solid #000; border-style: dashed; text-align: center;  font-size: 20px; padding: 1px 0px 1px 0px;">email02</div>
+                                    <button class="body02_button" style="display: flex; width: calc(100% - 20px); font-family: arial, helvetica, sans-serif; margin-top: 5px; background-color: #29B951; padding: 5px; font-size: 18px; border: 1px solid #29B951; border-radius: 3px;  color: #fff; justify-content: center;" onclick="location.href='https:www.farmaciajoaofalcao.com.br/melatonina-5mg-60-capsulas'">COMPRE JÁ!</button>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr class="td_container">
+                        <td align="center">
+                            <div class="body_email" style="display: flex; max-width: 700px; justify-content: space-between; align-items: center; flex-direction: row; flex-wrap: nowrap; min-width: 400px; margin-top: 20px;">
+                                <div class="body01" style="display: flex; flex-direction: column; align-items: center;width: calc(100% / 2); height: auto; display: flex; background-color: transparent; justify-content: flex-end; flex-direction: column; min-width: 190px; align-items: center;">
+                                    <img src="https://i.imgur.com/P6K1HWM.png" style="height: auto; margin-top: 0px; width: 130px; margin-bottom: 5px;">
+                                    <div class="body02" style="width: calc(100% - 20px); height: 30px; color: #fff; background-color: #00091F; border-radius: 3px; opacity: 1; display: flex; align-items: center; justify-content: center; flex-direction: row; padding: 5px 0px 5px 0px;">
+                                        <p class="body02_text" style="margin-top: 0px; margin-bottom: 0px; font-family: arial, helvetica, sans-serif; font-size: 25px; width: 100%; text-align: center;">AKKERMAT® - 30 CÁPS.</p>
+                                    </div>
+                                    <p class="utilize" style="width: calc(100% - 20px); margin: 0px; margin-top: 5px; padding: 2px 0px 2px 0px; font-family: arial, helvetica, sans-serif; font-weight: bolder; text-align: center;">Utilize o cupom:</p>
+                                    <div class="cuppom" style="width: calc(100% - 20px); margin-top: 5px; font-family: arial, helvetica, sans-serif; border: 1px solid #000; border-style: dashed; text-align: center;  font-size: 20px; padding: 1px 0px 1px 0px;">email03</div>
+                                    <button class="body02_button" style="display: flex; width: calc(100% - 20px); font-family: arial, helvetica, sans-serif; margin-top: 5px; background-color: #29B951; padding: 5px; font-size: 18px; border: 1px solid #29B951; border-radius: 3px;  color: #fff; justify-content: center;" onclick="location.href='https:www.farmaciajoaofalcao.com.br/qualidade-de-vida/energia-e-disposicao/inibir-apetite/akkermat-150mg-30-capsulas'">COMPRE JÁ!</button>
+                                </div>
+                                <div class="body01" style="display: flex; flex-direction: column; align-items: center;width: calc(100% / 2); height: auto; display: flex; background-color: transparent; justify-content: flex-end; flex-direction: column; min-width: 190px; align-items: center;">
+                                    <img src="https://i.imgur.com/1mXEQak.png" style="height: auto; margin-top: 0px; width: 130px; margin-bottom: 5px;">
+                                    <div class="body02" style="width: calc(100% - 20px); height: 30px; color: #fff; background-color: #00091F; border-radius: 3px; opacity: 1; display: flex; align-items: center; justify-content: center; flex-direction: row; padding: 5px 0px 5px 0px;">
+                                        <p class="body02_text" style="margin-top: 0px; margin-bottom: 0px; font-family: arial, helvetica, sans-serif; font-size: 25px; width: 100%; text-align: center;">AKKERMAT® - 60 CÁPS.</p>
+                                    </div>
+                                    <p class="utilize" style="width: calc(100% - 20px); margin: 0px; margin-top: 5px; padding: 2px 0px 2px 0px; font-family: arial, helvetica, sans-serif; font-weight: bolder; text-align: center;">Utilize o cupom:</p>
+                                    <div class="cuppom" style="width: calc(100% - 20px); margin-top: 5px; font-family: arial, helvetica, sans-serif; border: 1px solid #000; border-style: dashed; text-align: center;  font-size: 20px; padding: 1px 0px 1px 0px;">email04</div>
+                                    <button class="body02_button" style="display: flex; width: calc(100% - 20px); font-family: arial, helvetica, sans-serif; margin-top: 5px; background-color: #29B951; padding: 5px; font-size: 18px; border: 1px solid #29B951; border-radius: 3px;  color: #fff; justify-content: center;" onclick="location.href='https:www.farmaciajoaofalcao.com.br/qualidade-de-vida/energia-e-disposicao/inibir-apetite/akkermat-150mg-60-capsulas'">COMPRE JÁ!</button>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr class="td_container">
+                        <td align="center">
+                            <div class="container_email">
+                                <a href="https://www.farmaciajoaofalcao.com.br/saude/dapagliflozina-10mg-30-capsulas"><img style="margin-top: 15px; width: 700px; border-radius: 5px;" src="https://i.imgur.com/uV9Bqil.png" alt="Marketing Image"></a>
+                            </div>
+                        </td>
+                    </tr> 
+
+                    <tr class="td_container">
+                        <td align="center">
+                            <div class="rodape" style="background-color:#c5e4ff;width:calc(750px - 10px);height:140px;margin-top:15px;display:flex;border-radius:3px;align-items: center;justify-content: space-around;align-content: center;">
+                                <a href="https://www.instagram.com/farmaciajoaofalcao/"><img src="https://i.imgur.com/op66Egj.png" alt="Rede Social 1" style="margin-top: 0; width: 100px;"/></a>
+                                <a href="https://api.whatsapp.com/send?phone=5519997074655&text="><img style="margin-top: 0; width: 100px;" src="https://i.imgur.com/ICspgUx.png" alt="Rede Social 2" /></a>
+                                <a href="https://www.facebook.com/farmaciajoaofalcao"><img style="margin-top: 0; width: 100px;" src="https://i.imgur.com/pblSmSE.png" alt="Rede Social 3" /></a>
+                            </div>
+                        </td>
+                    </tr> 
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
